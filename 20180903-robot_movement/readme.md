@@ -1,0 +1,6 @@
+- [*] surface scope to limit actions 
+- [*] main reflection bug. if there is no this method 
+- [ ] ~~string to int may be bug in Robot place~~
+- [ ] ~~input string bugs handle like not matching, no command~~ 
+- [*] update structure
+- [*] more testing classes
